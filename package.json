@@ -1,0 +1,22 @@
+{
+  "name": "api-guard-with-jwt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Khan-Siraj/api-guard-with-jwt.git"
+  },
+  "author": "Siraj Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Khan-Siraj/api-guard-with-jwt/issues"
+  },
+  "homepage": "https://github.com/Khan-Siraj/api-guard-with-jwt#readme",
+  "dependencies": {
+    "jsonwebtoken": "^9.0.2"
+  }
+}
