@@ -11,12 +11,19 @@
     "url": "git+https://github.com/Khan-Siraj/api-guard-with-jwt.git"
   },
   "author": "Siraj Khan",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Khan-Siraj/api-guard-with-jwt/issues"
   },
   "homepage": "https://github.com/Khan-Siraj/api-guard-with-jwt#readme",
   "dependencies": {
     "jsonwebtoken": "^9.0.2"
-  }
+  },
+  "engines": {
+    "npm": ">=6",
+    "node": ">=12"
+  },
+  "files": [
+    "verify.js"
+  ]
 }
