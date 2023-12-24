@@ -1,5 +1,5 @@
 # api-guard-with-jwt
-A middleware to verify your nodejs express api with jwt token
+A middleware to verify your nodejs express api with jwt Bearer token
 
 # Install
 
